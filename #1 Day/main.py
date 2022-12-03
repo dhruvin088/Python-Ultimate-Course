@@ -1,0 +1,5 @@
+print("Hello World!")
+print(3)
+print('A')
+print(5+3, 12-2, 5*4, 17/2)
+print("Get started with 100 days Python Ultimate Course!")
